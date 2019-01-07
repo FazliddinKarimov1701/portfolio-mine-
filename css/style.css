@@ -1,0 +1,133 @@
+body{font-family: Exo, sans-serif}
+nav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	text-align: center;
+}
+#menu {
+	display: flex;
+	margin: 0 10px;
+	align-items: center;
+}
+
+li {
+	list-style: none
+}
+#menu li {
+	margin: 0 10px
+}
+
+main {
+	padding-top: 100px;
+}
+
+.container {
+	width: 90%;
+	max-width: 1024px;
+	margin: 0 auto
+}
+
+#logo > img {
+	height: 40px
+}
+
+main {
+	display: flex
+}
+
+#left, #right {
+	width: 50%
+}
+
+#right img{
+	width: 100%;
+}
+.btn{
+	margin: 0 10px;
+	border-radius: 25px;
+	outline: none;
+	border: 1px solid blue;
+	padding: 10px 30px;
+}
+.btn1{
+	border-radius: 7px;
+	outline: none;
+	background: white;
+	border: 1.5px solid #ffeb3b96;
+	font-family: 'Exo', sans-serif;
+	padding: 5px 10px;
+}
+a{
+	text-decoration: none;
+}
+.white{
+	background: white;
+}
+.blue{
+	background: #7708bd;
+	color: white;
+	box-shadow: 0px 0px 15px violet;
+}
+i{
+	margin-right: 5px;
+}
+#foot{
+	text-align: center;
+	margin-top: 100px;
+}
+.plan img{
+	width: 33%;
+}
+.plan > img{
+	width: 100px;
+    height: 100px;
+}
+#img{
+	display: flex;
+	text-align: center;
+	justify-content: space-around;
+	padding: 90px;
+}
+sup,sub{
+	font-size: 10px;
+}
+.btn2{
+	margin-top: 25px;
+	background: #7708bd;
+	color: white;
+	margin: 0 10px;
+	border-radius: 25px;
+	outline: none;
+	border: 1px solid blue;
+	padding: 10px 30px;
+}
+.btn2{
+	margin-top: 20px;
+}
+
+.first{
+	padding-top: 20px;
+}
+#left{
+	font-family: 'Josefin Sans', sans-serif;
+}
+#menu{
+	font-family: 'Exo', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
